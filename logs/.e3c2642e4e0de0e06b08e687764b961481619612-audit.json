@@ -1,0 +1,20 @@
+{
+    "keep": {
+        "days": true,
+        "amount": 14
+    },
+    "auditLog": "/home/usuario/Documentos/workspace/IdeaProjects/2526_IS_u2_1_taxonomia/logs/.e3c2642e4e0de0e06b08e687764b961481619612-audit.json",
+    "files": [
+        {
+            "date": 1768170967951,
+            "name": "/home/usuario/Documentos/workspace/IdeaProjects/2526_IS_u2_1_taxonomia/logs/mcp-puppeteer-2026-01-11.log",
+            "hash": "f03aa475cf80b2e771f53c95c39b42529f505886a7d0ef8fe048465f79f85c82"
+        },
+        {
+            "date": 1768173548886,
+            "name": "/home/usuario/Documentos/workspace/IdeaProjects/2526_IS_u2_1_taxonomia/logs/mcp-puppeteer-2026-01-12.log",
+            "hash": "5da303c067279069ccb0d1bebf46db311686597a493da77cee24a3404c4cfefd"
+        }
+    ],
+    "hashType": "sha256"
+}

@@ -1,0 +1,187 @@
+# ============================================================================
+# IDE & EDITOR FILES
+# ============================================================================
+
+# IntelliJ IDEA
+.idea/
+*.iml
+*.iws
+*.ipr
+*.swp
+*.swo
+*~
+.DS_Store
+
+# Visual Studio Code
+.vscode/
+*.code-workspace
+
+# Sublime Text
+*.sublime-project
+*.sublime-workspace
+
+# Atom
+.atom/
+.atomrc
+
+# VIM
+.vim/
+*.swp
+*.swo
+*~
+
+# Emacs
+*~
+\#*\#
+.\#*
+
+# Notepad++
+notepad_pp_backup/
+
+# NetBeans
+nbproject/
+.nb-gradle/
+
+# Eclipse
+.classpath
+.project
+.settings/
+.c9/
+*.launch
+.scala_dependencies
+.worksheet
+
+# Visual Studio
+.vs/
+.vsconfig
+
+# JetBrains IDEs (generic)
+.idea_modules/
+*.sublime-workspace
+
+# ============================================================================
+# OS FILES
+# ============================================================================
+
+# macOS
+.DS_Store
+.AppleDouble
+.LSOverride
+._*
+.Spotlight-V100
+.Trashes
+
+# Windows
+Thumbs.db
+ehthumbs.db
+Desktop.ini
+$RECYCLE.BIN/
+
+# Linux
+.directory
+
+# ============================================================================
+# LOGS (NOT INCLUDED - as per requirements)
+# ============================================================================
+# logs/ is intentionally NOT ignored
+# logs/ and its contents will be tracked in git if needed
+
+# ============================================================================
+# SYSTEM FILES
+# ============================================================================
+
+# Temporary files
+*.tmp
+*.temp
+*.bak
+*.backup
+*.cache
+
+# OS lock files
+.lock
+*.lock
+
+# ============================================================================
+# BUILD & DEPENDENCY ARTIFACTS
+# ============================================================================
+
+# Node.js
+node_modules/
+npm-debug.log*
+yarn-error.log*
+package-lock.json
+yarn.lock
+
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+*.so
+.Python
+env/
+venv/
+ENV/
+.venv
+pip-log.txt
+pip-delete-this-directory.txt
+.tox/
+.coverage
+.coverage.*
+.cache
+nosetests.xml
+coverage.xml
+*.cover
+.hypothesis/
+
+# Ruby
+.bundle/
+vendor/bundle/
+Gemfile.lock
+
+# Java/Maven
+target/
+.mvn/wrapper/maven-wrapper.jar
+*.class
+
+# Gradle
+.gradle/
+build/
+
+# ============================================================================
+# BACKUP & RECOVERY FILES
+# ============================================================================
+
+# Backup files
+*.backup
+*.bak
+*.orig
+*.swp
+*.swo
+*~
+
+# Recovery files
+.recovery
+
+# ============================================================================
+# MISC
+# ============================================================================
+
+# Compiled files (if any)
+*.o
+*.out
+*.exe
+
+# Database files (if any)
+*.db
+*.sqlite
+*.sqlite3
+
+# Environment variables
+.env
+.env.local
+.env.*.local
+
+# Secrets
+secrets.txt
+.secrets/
+

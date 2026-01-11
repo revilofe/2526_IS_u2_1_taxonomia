@@ -18,6 +18,8 @@ Desarrollar una comprensión detallada de la taxonomía de incidentes de ciberse
 
 ## 🎯 Trabajo a Realizar
 
+Basandote en la [teoria proporcionada y la taxonomía INCIBE-CERT](https://revilofe.github.io/section2/u02/teoria/IS-U2.1.1.-TaxonomiaDeIncidentes/), completa los siguientes pasos:
+
 ### 1. **Seleccionar 2 Agrupaciones de Incidentes**
 
 Elige **2 agrupaciones** de la taxonomía INCIBE-CERT (sin solaparse con otros grupos):
@@ -122,6 +124,7 @@ Pendiente de revisar.
 
 ## 📚 Recursos
 
+- [Apuntes de Teoría: Taxonomía de Incidentes](https://revilofe.github.io/section2/u02/teoria/IS-U2.1.1.-TaxonomiaDeIncidentes/)
 - [Matriz de Taxonomía INCIBE-CERT](https://github.com/flosada/RSITaxonomy_ES/blob/master/humanv1.md)
 - [Guía Nacional de Notificación y Gestión de Ciberincidentes](https://www.incibe.es/sites/default/files/contenidos/guias/doc/guia_nacional_notificacion_gestion_ciberincidentes.pdf)
 - [Apuntes proporcionados en clase](../material/apuntes.md)
